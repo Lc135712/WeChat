@@ -1,0 +1,38 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wx84beac9f98e7919e",
+"app_secret": "39fece72fc68f0a08e1f89439336a9fb",
+
+"template_id": "wHyCQQ1Um9nOtzSXv_jbwqHc5Knst8bY5rhRHz6Rcvs",
+"user_id": ["a1446987346"],
+
+"C_ShengFen": "陕西",
+"C_ChengShi": "神木",
+"S_XingZuo": "金牛座",
+
+"S_Love": "2020-01-01",
+"birthday1": "2001-01-01",
+"birthday2": "1999-01-01",
+
+# 天气预报
+"API_TQYB":"6789db9ae94459a30f8fc66f972cf87e",
+# 星座运势
+"API_XZYS":"6789db9ae94459a30f8fc66f972cf87e",
+
+# 早安心语
+"API_ZAXY":"6789db9ae94459a30f8fc66f972cf87e",
+# 晚安心语
+"API_WAXY":"6789db9ae94459a30f8fc66f972cf87e",
+
+# 舔狗日记
+"API_TGRJ":"6789db9ae94459a30f8fc66f972cf87e",
+# 土味情话
+"API_TWQH":"6789db9ae94459a30f8fc66f972cf87e"
+}
